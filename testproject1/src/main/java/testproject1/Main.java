@@ -8,6 +8,9 @@ public class Main {
 
 		Feature1 feature1 = new Feature1();
 		System.out.println(feature1.getFeature());
+
+		Feature2 feature2 = new Feature2();
+		System.out.println(feature2.getFeature());
 	}
 
 }
